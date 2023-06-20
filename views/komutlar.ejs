@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%-include('include/header.ejs')%>
+    <style>
+        .card {
+            transition: transform 0.2s;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+    </style>
+</head> 
+<body class="bg-gray-900">
+    <br>
+    <div class="container mx-auto px-4 py-8 text-white">
+        <h2 class="text-2xl font-bold mb-4">Komutlar</h2>
+        
+        <div class="flex flex-wrap -mx-2">
+            <div class="w-full md:w-1/2 lg:w-1/3 px-2">
+                <div class="bg-gray-800 p-4 rounded-lg shadow-md mb-4 card">
+                    <h3 class="text-xl font-bold">!komut1</h3>
+                    <p>Açıklama: Bu komut ile ...</p>
+                    <p>Kullanım: !komut1 [parametre]</p>
+                </div>
+            </div>
+
+            <div class="w-full md:w-1/2 lg:w-1/3 px-2">
+                <div class="bg-gray-800 p-4 rounded-lg shadow-md mb-4 card">
+                    <h3 class="text-xl font-bold">!komut2</h3>
+                    <p>Açıklama: Bu komut ile ...</p>
+                    <p>Kullanım: !komut2 [parametre]</p>
+                </div>
+            </div>
+
+            <div class="w-full md:w-1/2 lg:w-1/3 px-2">
+                <div class="bg-gray-800 p-4 rounded-lg shadow-md mb-4 card">
+                    <h3 class="text-xl font-bold">!komut3</h3>
+                    <p>Açıklama: Bu komut ile ...</p>
+                    <p>Kullanım: !komut3 [parametre]</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.tailwindcss.com/2.2.19/tailwind.min.js"></script>
+</body>
+</html>

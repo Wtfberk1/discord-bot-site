@@ -1,0 +1,8 @@
+{
+    "siteName": "Sitenin adını giriniz.",
+    "token": "Discord botunuzun tokenini giriniz.",
+    "clientId": "Discord botunuzun ID'sini giriniz.",
+    "botInvite": "Discord botunuzun davet linkini giriniz.",
+    "dcDestekSunucusu": "Discord botunuzun destek sunucusunun davet linkini giriniz.",
+    "logo": "Site logonuzun linkini giriniz."
+}
