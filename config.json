@@ -1,8 +1,8 @@
 {
-    "siteName": "Sitenin adını giriniz.",
-    "token": "Discord botunuzun tokenini giriniz.",
-    "clientId": "Discord botunuzun ID'sini giriniz.",
-    "botInvite": "Discord botunuzun davet linkini giriniz.",
-    "dcDestekSunucusu": "Discord botunuzun destek sunucusunun davet linkini giriniz.",
-    "logo": "Site logonuzun linkini giriniz."
+    "siteName": "Sitenin adını giriniz.",LOO.CODE
+    "token": "Discord botunuzun tokenini giriniz.",MTE0MzQ3NzA3NjM4MTQwNTE5NA.GaIb_6.hphjaVHo7SjjXMIUMdjj9_XnRtDPLN_EhTZXVc
+    "clientId": "Discord botunuzun ID'sini giriniz.",1143477076381405194
+    "botInvite": "Discord botunuzun davet linkini giriniz.",https://discord.com/oauth2/authorize?client_id=1143477076381405194&scope=bot%20applications.commands&permissions=2146958847
+    "dcDestekSunucusu": "Discord botunuzun destek sunucusunun davet linkini giriniz.",https://discord.gg/8b9rNGG2ZF
+    "logo": "Site logonuzun linkini giriniz."https://share.creavite.co/HImd2mW7YPzrIx1D.gif
 }
